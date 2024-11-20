@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/johngarcia/Desktop/C#/PWMP_project/PWMP/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/johngarcia/Desktop/C#/PWMP_project/PWMP/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/PWMP.app
